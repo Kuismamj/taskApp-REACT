@@ -7,3 +7,8 @@ Technologies Used:
   -useState & useEffect for state management and localStorage integration
 
   -CSS for modern styling
+
+How to run:
+  -Download as ZIP
+  -Open in VSCode
+  -When in right folder, write to console: npm install and npm run dev
